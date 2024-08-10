@@ -91,7 +91,7 @@ LLMs/
 ```
 
 7. Credits
-   - This project was developed by **Eng. Willgnner Ferreira Santos** [Lattes](http://lattes.cnpq.br/3203020327904139), **Prof. Dr. Arlindo Rodrigues Galvão Filho** [Lattes](http://lattes.cnpq.br/7744765287200890), and **Prof. Dr. Sávio Salvarino Teles de Oliveira** [Lattes](http://lattes.cnpq.br/1905829499839846), as part of a study on the application of LLMs for the classification of legal texts. The `Mixtral-8x22B-Instruct-v0.1` model was used with the support of the langchain_openai API.
+   - This project was developed by **Eng. Willgnner Ferreira Santos** [Lattes](http://lattes.cnpq.br/3203020327904139), **Prof. Dr. Arlindo Rodrigues Galvão Filho** [Lattes](http://lattes.cnpq.br/7744765287200890), and **Prof. Dr. Sávio Salvarino Teles de Oliveira** [Lattes](http://lattes.cnpq.br/1905829499839846), as part of a study on the application of LLMs for the classification of legal texts. The `Mixtral-8x22B-Instruct-v0.1` model was used with the support of the langchain_openai API. 
 
 
 
