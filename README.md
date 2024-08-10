@@ -90,7 +90,7 @@ LLMs/
     └── metrics_comparison.csv
 ```
 
-6. Credits
+7. Credits
    - This project was developed by **Willgnner Ferreira Santos** as part of a study on the application of LLMs for the classification of legal texts. The `Mixtral-8x22B-Instruct-v0.1` model was used with the support of the langchain_openai API.
 
 
