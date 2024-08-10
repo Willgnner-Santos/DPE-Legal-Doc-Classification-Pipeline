@@ -91,7 +91,7 @@ LLMs/
 ```
 
 7. Credits
-   - This project was developed by **Willgnner Ferreira Santos**, **,Arlindo Rodrigues Galvão Filho**, and **,Sávio Salvarino Teles de Oliveira**, as part of a study on the application of LLMs for the classification of legal texts. The `Mixtral-8x22B-Instruct-v0.1` model was used with the support of the langchain_openai API.
+   - This project was developed by **Eng. Willgnner Ferreira Santos**, **Prof. Dr. Arlindo Rodrigues Galvão Filho**, and **,Prof. Dr. Sávio Salvarino Teles de Oliveira**, as part of a study on the application of LLMs for the classification of legal texts. The `Mixtral-8x22B-Instruct-v0.1` model was used with the support of the langchain_openai API.
 
 
 
