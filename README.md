@@ -39,7 +39,7 @@ llm = ChatOpenAI(api_key=api_key, model='mistralai/Mixtral-8x22B-Instruct-v0.1')
 3. Preparation of Corpus:
    - Upload the *corpus* of legal petitions from Google Drive and filter texts with less than **XXX** tokens ([Comprimento do contexto - LLMs](https://docs.together.ai/docs/chat-models)).
 
-4. 4. Classification and Generation of Summaries:
+4. Classification and Generation of Summaries:
    - Use customized prompts (PROMPT_CLASSIFICATION, PROMPT_SUMMARY, PROMPT_DESCRIPTION) to classify and summarize legal texts.
   
 5. Metrics and Visualizations:
