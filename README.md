@@ -1,4 +1,4 @@
-# Classificação de Textos Jurídicos usando LLMs
+# Legal Document Classification Using Large-Scale Language Models
 
 This project evaluates the application of Large Language Models (LLMs) in the classification of legal documents, with a focus on the Public Defender's Office of the State of Goiás (DPE-GO). Utilizing a Brazilian legal corpus, traditional transformer-based models were compared with advanced LLMs. Various prompt construction methods were employed to assess the models' effectiveness. The results demonstrate that LLMs, particularly the Mixtral-8x22B-Instruct-v0.1, outperform traditional models, achieving an accuracy of up to **99.42%**. We conclude that the integration of LLMs can significantly enhance efficiency and standardization in legal text analysis, providing effective support for public defenders.
 
