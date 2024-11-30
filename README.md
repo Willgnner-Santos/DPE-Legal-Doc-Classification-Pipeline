@@ -1,8 +1,6 @@
 # Evaluation of Large Language Models for Classifying Legal Documents in Portuguese
 
-This project evaluates the application of Large Language Models (LLMs) in the classification of legal documents, focusing on the Public Defender's Office of the State of Goiás (DPE-GO). Using a Brazilian legal corpus, advanced LLMs were assessed. Various text processing methods were employed to evaluate the models' effectiveness. The results show that LLMs, particularly the Llama-3.1-70B-Instruct-Turbo, achieve accuracy rates of up to **99.92%**.
-
-We conclude that integrating LLMs can significantly enhance efficiency and standardization in the analysis of legal texts, providing effective support to public defenders. The repository includes four types of developed methods: summaries, descriptions, direct classification, and the use of centroids. Other LLMs were used, with the main differences being in model loading and the configuration of the context length supported by the selected LLM.
+This project introduces a pipeline for automating the classification of legal documents, leveraging text representation techniques (full text, summaries, centroids, and descriptions) combined with LLMs. Effectiveness was evaluated using metrics such as accuracy and F1-score, with data from the Public Defender's Office of Goiás (DPE-GO). The study highlights how AI can optimize legal workflows, reduce workload, and serve as a reference for institutions in Brazil and worldwide.
 
 ## Prerequisites
 
@@ -56,7 +54,7 @@ llm = ChatOpenAI(api_key=api_key, model='meta-llama/Meta-Llama-3.1-70B-Instruct-
    - Save results, including classifications, metrics reports, and confusion matrices, directly to Google Drive.
 
 7. Credits
-   - This project was developed by **Eng. Willgnner Ferreira Santos** [Lattes](http://lattes.cnpq.br/3203020327904139), **Prof. Dr. Arlindo Rodrigues Galvão Filho** [Lattes](http://lattes.cnpq.br/7744765287200890), and **Prof. Dr. Sávio Salvarino Teles de Oliveira** [Lattes](http://lattes.cnpq.br/1905829499839846), as part of a study on the evaluation of large language models for classifying legal documents in portuguese.
+   - This project was developed by **MSc. Eng. Willgnner Ferreira Santos** [Lattes](http://lattes.cnpq.br/3203020327904139), **Prof. Dr. Arlindo Rodrigues Galvão Filho** [Lattes](http://lattes.cnpq.br/7744765287200890), and **Prof. Dr. Sávio Salvarino Teles de Oliveira** [Lattes](http://lattes.cnpq.br/1905829499839846), as part of a study on the evaluation of large language models for classifying legal documents in portuguese.
  
 
 
