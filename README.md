@@ -1,6 +1,6 @@
 # Evaluation of Large Language Models for Classifying Legal Documents in Portuguese
 
-This project introduces a pipeline for automating the classification of legal documents, leveraging text representation techniques (full text, summaries, centroids, and descriptions) combined with LLMs. Effectiveness was evaluated using metrics such as accuracy and F1-score, with data from the Public Defender's Office of Goiás (DPE-GO). The study highlights how AI can optimize legal workflows, reduce workload, and serve as a reference for institutions in Brazil and worldwide.
+This study evaluates the impact of large language models (LLMs) on the automatic classification of legal documents, using different textual representations (full text, summaries, centroids, and descriptions). The evaluation, conducted through accuracy and F1-score metrics, was based on a case study developed in a Brazilian Public Defender's Office. The results show how this approach can enhance document processing and reduce manual workload, offering a replicable strategy for other public defender's offices and governmental institutions in Brazil and elsewhere.
 
 ## Prerequisites
 
